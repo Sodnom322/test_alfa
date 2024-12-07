@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test_alfa/static/css/main.847239f1.css",
+    "main.js": "/test_alfa/static/js/main.298ebb3e.js",
+    "static/media/no-pictures.png": "/test_alfa/static/media/no-pictures.5533b14ac3fa8a6eccf1.png",
+    "index.html": "/test_alfa/index.html",
+    "main.847239f1.css.map": "/test_alfa/static/css/main.847239f1.css.map",
+    "main.298ebb3e.js.map": "/test_alfa/static/js/main.298ebb3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847239f1.css",
+    "static/js/main.298ebb3e.js"
+  ]
+}
